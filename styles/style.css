@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: "Fira Sans", serif; */
+
+body {
+    font-family: "Fira Sans", serif;
+}
+
+nav {
+    display: flex;
+    width: 850px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+}
+
+.site-name {
+    color: #0E0E0E;
+    font-family: "Fira Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.sign-in-button {
+    border-radius: 8px;
+    border: 1px solid #006A50;
+    padding: 10px 20px;
+}
+
+#hero {
+    width: 850px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 42px;
+    margin: 12px auto 50px;
+    background-color: #C6E4D6;
+    padding: 50px 67px;
+    border-radius: 24px;
+}
+
+.hero-text-container {
+    max-width: 415px;
+}
+
+.title {
+    font-size: 38px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.sub-title {
+    color: rgba(14, 14, 14, 0.50);
+    font-family: "Fira Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.hero-image-container {
+width: 50%;
+}
+
+.hero-image-container img {
+    width: 100%;
+}
+
+.hero-btn {
+    border-radius: 8px;
+    background: #006A50;
+    padding: 12px 22px;
+    margin-top: 18px;
+    color: #FFF;
+    font-family: "Fira Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    border: none;
+}
+
