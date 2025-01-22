@@ -88,3 +88,32 @@ nav {
     border: none;
 }
 
+.card-section {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.cards {
+    display: flex;
+}
+
+.card-section-title {
+
+}
+
+.card-section-description {
+
+}
+
+.card-1 {
+
+}
+
+.card-2 {
+    
+}
+
+.card-3 {
+
+}
+
